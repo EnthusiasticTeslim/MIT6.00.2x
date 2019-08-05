@@ -1,2 +1,12 @@
 # MIT6.00.2x
-Solutions to MIT6.00.1x : Introduction to Computational Thinking and Data Science. In this course, we were taught the basics of computer programming in Python and the fundamentals of computation, as well as getting the opportunity to implement your own Python function
+Solutions to MIT6.00.2x : Introduction to Computational Thinking and Data Science. Topics covered include:
+
+Advanced programming in Python 3 |
+Knapsack problem, Graphs and graph optimization |
+Dynamic programming |
+Plotting with the pylab package |
+Random walks |
+Probability Distributions |
+Monte Carlo simulations|
+Curve fitting |
+Statistical fallacies
